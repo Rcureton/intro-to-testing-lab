@@ -1,6 +1,7 @@
 # Intro to Testing Lab
 ## Twitter
 ![alt tag](http://cdn.betches.com/sites/default/files/article/list/images/ferrell.jpg)
+
 **Test Case Twitter**
 
 **Tweet Feature**
