@@ -1,6 +1,6 @@
 # Intro to Testing Lab
 ## Twitter
-![alt tag](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjUkIyG1N7KAhUKbj4KHTaaBcMQjRwIBw&url=http%3A%2F%2Fwww.betches.com%2Fhow-to-not-be-annoying-on-twitter&bvm=bv.113370389,d.cWw&psig=AFQjCNEPqeGXN-17AGGdjZQuO2QT92HjPg&ust=1454694077397616)
+![alt tag](http://cdn.betches.com/sites/default/files/article/list/images/ferrell.jpg)
 **Test Case Twitter**
 
 **Tweet Feature**
